@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/enchantment_icons.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uD83D\uDEE1\uD83E\uDDE2\uD83E\uDD7C\uD83D\uDC5F\u271D\u269C"
+      ]
+    }
+  ]
+}

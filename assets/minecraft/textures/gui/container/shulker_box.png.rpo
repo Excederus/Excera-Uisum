@@ -1,0 +1,4 @@
+{
+    condition: "guiStyle.background",
+    fallback: "assets/minecraft/textures/gui/container/shulker_box_nobackground.png"
+}

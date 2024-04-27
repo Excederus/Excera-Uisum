@@ -1,0 +1,12 @@
+{
+    id: "<ExceraUisum>",
+    version: 9,
+    capabilities: ["FileFilter", "DirFilter"],
+    conf: {
+        guiStyle: {
+            type: "enum",
+            default: "background",
+            values: ["background", "noBackground"]
+        }
+    }
+}

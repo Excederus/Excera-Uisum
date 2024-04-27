@@ -1,0 +1,4 @@
+{
+    condition: "guiStyle.background",
+    fallback: "assets/minecraft/textures/gui/recipe_book_nobackground.png"
+}

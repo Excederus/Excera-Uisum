@@ -1,4 +1,0 @@
-{
-    condition: "guiStyle.background",
-    fallback: "assets/minecraft/textures/gui/container/crafter_nobackground.png"
-}

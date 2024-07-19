@@ -1,4 +1,0 @@
-{
-    condition: "guiStyle.background",
-    fallback: "assets/minecraft/textures/gui/container/cartography_table_nobackground.png"
-}

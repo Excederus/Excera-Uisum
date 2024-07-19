@@ -109,11 +109,5 @@
   "itemGroup.redstone": "§fRedstone Blocks",
   "itemGroup.search": "§fSearch Items",
   "itemGroup.spawnEggs": "§fSpawn Eggs",
-  "itemGroup.tools": "§fTools & Utilities",
-
-  "rpo.ExceraUisum.title": "Excera Uisum - Config",
-  "rpo.ExceraUisum.guiStyle": "GUI Style",
-  "rpo.ExceraUisum.guiStyle.background": "With Background",
-  "rpo.ExceraUisum.guiStyle.noBackground": "Without Background",
-  "rpo.ExceraUisum.guiStyle.tooltip": "Choose your GUI Style\n\nWith Background: Default style with backgrounds\nWithout Background: Removes the backgrounds from all GUIs"
+  "itemGroup.tools": "§fTools & Utilities"
 }
